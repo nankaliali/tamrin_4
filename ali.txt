@@ -1,0 +1,5 @@
+name: 'medad'
+price: 5000
+count: 20
+made: 'IRAN'
+factory: 'SCANIA'
